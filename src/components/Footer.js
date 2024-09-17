@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <footer className="bg-gradient-to-r from-green-400 via-green-500 to-green-600 text-white py-6 ">
+    <footer className="bg-gradient-to-r from-green-400 via-green-500 to-green-600 text-white py-6">
       <div className="container mx-auto flex flex-col md:flex-row justify-between items-center px-6">
         {/* Left Section */}
         <div className="mb-4 md:mb-0">
